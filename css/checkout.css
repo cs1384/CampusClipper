@@ -1,0 +1,25 @@
+.main2{width:980px;margin:0px auto 20px auto;z-index:2;}
+
+.ctitle{font-size:180%;height:40px;width:980px;margin:0px 1% 0px 5%;}
+.ctitle div{float:left;padding:0 0 0 3px;border-left:1px solid}
+.ctitle .name{width:15%}
+.ctitle .price{width:10%}
+.ctitle .qty{width:10%}
+.ctitle .subt{width:10%}
+.ctitle .desc{width:50%}
+
+.record{font-size:180%;height:40px;width:980px;margin:0px 1% 0px 5%;}
+.record div{float:left;padding:0 0 0 4px;}
+.record .name{width:15%}
+.record .price{width:10%}
+.record .inputWrap{width:10%}
+.record .inputWrap2{width:5%;}
+.record .qty{width:40%;}
+.record .subt{width:10%}
+.record .desc{width:50%;word-break:keep-all;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
+
+.title3{font-size:180%;margin:20px 0 0 25%;}
+.recipient{width:15%}
+.address{width:50%}
+.title2{font-size:180%;margin:20px 0 0 25%;float:left;}
+.subm{float:left;width:15%;background-color:rgb(60,179,113);color:white;margin:20px 0 0 2%;}

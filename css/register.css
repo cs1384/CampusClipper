@@ -1,0 +1,18 @@
+.main{width:1024px;height:600px;margin:0px auto;z-index:2;}
+.title{line-height:30px;font-size:180%;text-align:center;width:300px;height:30px;margin:5% auto 0 auto;background:green;color:white}
+.intro{font-size:160%;text-align:center;width:1000px;height:30px;margin:1% auto 3%;color:rgb(180,180,180);}
+.intro a{font-size:140%;}
+.form{width:920px;margin: 0px auto;}
+.blk{float:left;height:80px;width:305px;}
+.blk input{float:left;height:25px;}
+.blk select{font-size:280%;width:180px;line-height:30px;height:30px;margin:5px 0px 5px 5px;}
+.subtitle{font-size:120%;width:120px;text-align:right;float:left;line-height:30px;height:30px;}
+
+.required{color:red;}
+.blk2{width:920px;text-align:center;font-size:120%;}
+.blk3{height:80px;width:500px;margin:0px auto;}
+.blk3 input{float:left;height:25px;}
+.blk3 .msg{text-align:right;width:390px;}
+.blk3 .showmsg{text-align:right;width:390px;visibility:visible;}
+.subm{width:100px;font-size:200%}
+.msg{text-align:right;width:290px;color:red;visibility:hidden;}

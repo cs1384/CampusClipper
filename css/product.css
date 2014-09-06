@@ -1,0 +1,40 @@
+.upper{width:100%;height:450px;border-bottom:solid 2px rgb(200,200,200);}
+.mark{float:left;width:34%;height:400px;position:relative;margin:25px 3% 25px 3%;}
+.mark img{width:100%;height:86%;border:solid 1px rgb(200,200,200);}
+.mark div{font-size:240%;margin:10px;color:rgb(60,179,113);}
+.intro{float:left;width:34%;height:400px;position:relative;margin:25px 3% 25px 3%;border-right:solid 2px rgb(200,200,200);}
+.intro div{font-size:240%;color:rgb(60,179,113);}
+.intro p{font-size:160%;}
+.func{float:left;width:12%;height:400px;position:relative;margin:25px 3% 25px 3%;}
+.func button{font-size:150%;width:90%;height:65px;margin:25px 5% 15px 5%;background-color:rgb(60,179,113);color:white;}
+.sele{margin:0 0 0 20%;}
+
+.middle{width:100%;height:320px;border-bottom:solid 2px rgb(200,200,200);}
+.alsolike{font-size:180%;height:40px;line-height:40px;padding:15px 2% 0 2%;color:rgb(60,179,113);}
+.piece{width:21%;height:250px;float:left;margin:0px 2% 20px 2%;font-size:140%;color:rgb(60,179,113);}
+.piece img{width:100%;height:90%}
+
+.lower{width:100%;height:440px;}
+.randr{font-size:180%;height:40px;line-height:40px;padding:15px 2% 0 2%;color:rgb(60,179,113);float:left}
+.btn1{float:right;height:30px;margin:20px 3% 0 0;background-color:rgb(60,179,113);color:white;}
+.load{width:100%;height:330px;float:left}
+.unit{width:100%;height:145px;margin:10px 0 10px 0;}
+.name{float:left;width:15%;height:145px;line-height:50px;text-align:right;padding:0 2% 0 2%;font-size:160%;border-right:solid 2px rgb(200,200,200);}
+.name input{float:right;width:50%;height:30px;margin:20px 0 0 0;background-color:rgb(60,179,113);color:white;}
+.rating{float:left;width:78%;height:30px;padding:0 0 0 2%;}
+.rating div{float:left;width:30px;height:30px;}
+.rating img{width:100%;}
+.custom{float:left;width:15%;height:30px;padding:55px 0 0 0;}
+.title{float:left;width:77%;height:30px;line-height:30px;font-size:140%;padding:0 0 0 2%;}
+.text{float:left;width:72%;height:85px;font-size:140%;padding:5px 0 5px 3%;}
+
+.form{margin:50px 0 0 0;}
+.wrapper{height:180px;}
+.name2{color:rgb(60,179,113);float:left;width:15%;height:180px;line-height:50px;text-align:right;padding:0 2% 0 2%;font-size:160%;border-right:solid 2px rgb(200,200,200);}
+.rating2{float:left;width:78%;height:30px;padding:0 0 0 2%;font-size:140%;color:rgb(60,179,113);}
+.title2{float:left;width:72%;height:30px;line-height:30px;font-size:120%;margin:5px 2% 0 2%;}
+.text2{float:left;width:72%;height:80px;font-size:120%;margin:10px 2% 0 2%;}
+.subm1{text-align:center;width:100%;height:30px;}
+.subm2{width:10%;background-color:rgb(60,179,113);color:white;margin:0 1% 0 1%;}
+
+.btn2{display:none;float:right;width:10%;height:25px;margin:10px 3% 0 0;background-color:rgb(60,179,113);color:white;}

@@ -1,0 +1,24 @@
+.main {height:1400px;}
+
+.controlPanel {width:960px;height:50px;border-bottom:solid 2px rgb(200,200,200);margin:auto auto}
+.controlPanel p{float:left;margin:10px 0 10px 3%;font-size:150%;}
+.controlPanel button{float:right;font-size:100%;width:15%;height:30px;margin:10px 10px 10px 0px;background-color:rgb(60,179,113);color:white;}
+
+.showCoupon {width:960px;height:780px;border-bottom:solid 2px rgb(200,200,200);margin:auto auto;}
+.showCoupon p{margin:10px 0 10px 3%;font-size:150%;color:rgb(60,179,113);}
+.favorite {width:31%;height:370px;float:left;padding:5px 1% 5px 1%}
+.favorite img{width:100%;}
+.favorite div{font-size:150%;height:30px;line-height:30px;}
+.favorite button{float:left;font-size:100%;width:50%;height:30px;margin:10px 0 10px 0;background-color:rgb(60,179,113);color:white;}
+.btn{float:left;font-size:100%;width:50%;height:30px;margin:10px 0 10px 0;background-color:rgb(60,179,113);color:white;}
+
+.showReview {width:960px;height:500px;margin:auto auto;}
+.showReview p{margin:10px 0 10px 3%;font-size:150%;color:rgb(60,179,113);}
+.review {width:100%;height:240px;padding:5px 1% 5px 1%}
+.mark {float:left;width:30%;height:200px;margin: 10px 1% 10px 1%;border-right:solid 2px rgb(200,200,200);}
+.mark img{width:90%;}
+.rating{float:left;width:60%;height:30px;padding:0 0 0 2%;}
+.rating div{float:left;width:30px;height:30px;}
+.rating img{width:100%;}
+.title{float:left;width:60%;height:40px;line-height:40px;font-size:150%;padding:0 0 0 2%;}
+.text{float:left;width:60%;height:120px;font-size:140%;padding:5px 0 5px 3%;}

@@ -1,0 +1,16 @@
+.main2{width:980px;margin:0px auto 20px auto;z-index:2;}
+.title2{font-size:180%;height:50px;}
+
+.ctitle{font-size:140%;height:30px;width:980px;margin:0px 5% 0px 5%;}
+.ctitle div{float:left;padding:0 0 0 3px;border-left:1px solid}
+.ctitle .name{width:150px}
+.ctitle .cate{width:150px}
+.ctitle .disc{width:150px}
+.ctitle .desc{width:500px}
+
+.record{font-size:140%;height:30px;width:980px;margin:0px 5% 0px 5%;}
+.record div{float:left;padding:0 0 0 4px;}
+.record .name{width:150px}
+.record .cate{width:150px}
+.record .disc{width:150px}
+.record .desc{width:500px;word-break:keep-all;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
